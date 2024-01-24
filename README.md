@@ -1,1 +1,1 @@
-# Bin-Packing-solver
+# Bin-Packing-Problem-Solver
